@@ -100,7 +100,7 @@ a img{border: none;}
 /* btn - more */
 #wrap section.about ul li a .text p.more {font-weight: bold; padding-left: 40px; position: relative;}
 #wrap section.about ul li a .text p.more:hover {color: #999;}
-#wrap section.about ul li a .text p.more:before {content: '\f178'; font-family: FontAwesome; background: #ff8342; width: 30px; height: 30px; border-radius: 50%; position: absolute; left: 0; padding-left: 0.4px; }
+#wrap section.about ul li a .text p.more:before {content: '\f178'; font-family: FontAwesome; background: #ff8342; width: 30px; height: 30px; border-radius: 50%; position: absolute; left: 0; padding-left: 0.4px;  line-height: 30px;}
 
 
 
